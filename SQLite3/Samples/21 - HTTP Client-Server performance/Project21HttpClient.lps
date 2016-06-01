@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="Project21HttpClient.dpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos Y="22"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\..\SynSelfTests.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="155"/>
+        <CursorPos X="3" Y="172"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="..\..\..\SynSelfTests.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Project21HttpClient.dpr"/>
+        <Caret Line="11" Column="23"/>
+      </Position2>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="AssertionsFailed"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>

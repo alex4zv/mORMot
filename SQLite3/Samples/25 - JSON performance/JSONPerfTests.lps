@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="6">
+      <Unit0>
+        <Filename Value="JSONPerfTests.dpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="JSONPerfTestCases.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="343"/>
+        <CursorPos X="40" Y="371"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\..\CrossPlatform\SynCrossPlatformJSON.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="198"/>
+        <CursorPos X="25" Y="224"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\..\CrossPlatform\SynCrossPlatform.inc"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\..\SynCommons.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="12530"/>
+        <CursorPos Y="12556"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\..\Synopse.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="265"/>
+        <CursorPos Y="278"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit5>
+    </Units>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="JSONPerfTestCases.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="JSONPerfTestCases.pas"/>
+        <Caret Line="90" Column="6" TopLine="64"/>
+      </Position2>
+      <Position3>
+        <Filename Value="JSONPerfTestCases.pas"/>
+        <Caret Line="6" Column="8"/>
+      </Position3>
+      <Position4>
+        <Filename Value="JSONPerfTestCases.pas"/>
+        <Caret Line="347" Column="14" TopLine="336"/>
+      </Position4>
+      <Position5>
+        <Filename Value="JSONPerfTestCases.pas"/>
+        <Caret Line="1004" Column="3" TopLine="985"/>
+      </Position5>
+      <Position6>
+        <Filename Value="JSONPerfTestCases.pas"/>
+        <Caret Line="1173" Column="3" TopLine="1154"/>
+      </Position6>
+      <Position7>
+        <Filename Value="JSONPerfTestCases.pas"/>
+        <Caret Line="1203" Column="3" TopLine="1185"/>
+      </Position7>
+      <Position8>
+        <Filename Value="JSONPerfTestCases.pas"/>
+        <Caret Line="1221" Column="16" TopLine="1205"/>
+      </Position8>
+      <Position9>
+        <Filename Value="..\..\..\CrossPlatform\SynCrossPlatform.inc"/>
+        <Caret Line="73" Column="18" TopLine="51"/>
+      </Position9>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="AssertionsFailed"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>

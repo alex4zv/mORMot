@@ -95,11 +95,11 @@ end;
 var Props: TSQLDBConnectionProperties;
 begin
   Props := TSQLDBSQLite3ConnectionProperties.Create(
-    StringToUTF8('..\..\exe\test.db3'),'','','');
+    StringToUTF8('test.db3'),'','','');
   try
     with TJSONServer.Create(Props) do
     try
-      write('Server is now running on http://localhost:888/root'#13#10+
+      write('Server is now running on http://localhost:8888/root'#13#10+
         'and will serve ',ExpandFileName(UTF8ToString(Props.ServerName)),
         ' content'#13#10#13#10'Press [Enter] to quit');
       readln;

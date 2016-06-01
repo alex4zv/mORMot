@@ -2,6 +2,8 @@ unit PeopleServer;
 
 interface
 
+{$i Synopse.inc} // define e.g. HASINLINE
+
 {$define TESTRECORD}
 
 uses
@@ -194,12 +196,12 @@ begin
   end;
   if DB.TableRowCount(TSQLRecordPeople)=0 then
     // we expect at least one record
-    if DB.Add(TSQLRecordPeople,['First1','Last1',1801,1826{$ifdef TESTRECORD},0,''{$endif}])=0 then
+    if DB.Add(TSQLRecordPeople,['First1','Last1',1801,1826{$ifdef TESTRECORD},0,''{$endif}],0)=0 then
       writeln('StartServer DB.Add(TSQLRecordPeople) Error');
     // in all cases, client will call DropTable method-based service
   AddToServerWrapperMethod(DB,['..\..\..\CrossPlatform\templates',
                                 '..\..\..\..\CrossPlatform\templates']);
-  {$ifndef FPC}
+  {$ifdef HASINTERFACERTTI}
   DB.ServiceRegister(TServiceCalculator,[TypeInfo(ICalculator)],sicShared);
   {$endif}
 end;

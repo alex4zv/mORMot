@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="PerfTest.dpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="6" Y="13"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="PerfMain.pas"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="PerfMain.pas"/>
+      </Position1>
+      <Position2>
+        <Filename Value="PerfMain.pas"/>
+        <Caret Line="934" Column="24" TopLine="916"/>
+      </Position2>
+      <Position3>
+        <Filename Value="PerfMain.pas"/>
+      </Position3>
+      <Position4>
+        <Filename Value="PerfMain.pas"/>
+        <Caret Line="929" Column="50" TopLine="913"/>
+      </Position4>
+      <Position5>
+        <Filename Value="PerfTest.dpr"/>
+        <Caret Line="16"/>
+      </Position5>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="AssertionsFailed"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>

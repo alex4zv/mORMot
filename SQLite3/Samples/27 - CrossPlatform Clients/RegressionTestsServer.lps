@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="RegressionTestsServer.dpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="PeopleServer.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="24" Y="3"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\mORMot.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13587"/>
+        <CursorPos X="14" Y="13586"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\..\Synopse.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="241"/>
+        <CursorPos X="50" Y="256"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="RegressionTestsServer.dpr"/>
+        <Caret Line="3" Column="42"/>
+      </Position1>
+      <Position2>
+        <Filename Value="RegressionTestsServer.dpr"/>
+        <Caret Line="3" Column="8"/>
+      </Position2>
+      <Position3>
+        <Filename Value="RegressionTestsServer.dpr"/>
+        <Caret Line="4" Column="7"/>
+      </Position3>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="AssertionsFailed"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>

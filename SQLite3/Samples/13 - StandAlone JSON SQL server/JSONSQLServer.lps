@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="JSONSQLServer.dpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="61"/>
+        <CursorPos X="28" Y="67"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\..\SynZip.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="142"/>
+        <CursorPos X="9" Y="161"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\..\SynCrtSock.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="202"/>
+        <CursorPos X="9" Y="219"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\..\SynSQLite3.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="3871"/>
+        <CursorPos X="27" Y="3873"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\..\Synopse.inc"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="28" Y="486"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="8" HistoryIndex="7">
+      <Position1>
+        <Filename Value="JSONSQLServer.dpr"/>
+      </Position1>
+      <Position2>
+        <Filename Value="JSONSQLServer.dpr"/>
+        <Caret Line="68" Column="20" TopLine="51"/>
+      </Position2>
+      <Position3>
+        <Filename Value="JSONSQLServer.dpr"/>
+        <Caret Line="68" Column="43" TopLine="51"/>
+      </Position3>
+      <Position4>
+        <Filename Value="JSONSQLServer.dpr"/>
+        <Caret Line="69" Column="25" TopLine="52"/>
+      </Position4>
+      <Position5>
+        <Filename Value="JSONSQLServer.dpr"/>
+        <Caret Line="38" Column="16" TopLine="27"/>
+      </Position5>
+      <Position6>
+        <Filename Value="JSONSQLServer.dpr"/>
+        <Caret Line="43" Column="5" TopLine="27"/>
+      </Position6>
+      <Position7>
+        <Filename Value="..\..\..\Synopse.inc"/>
+        <Caret Line="216" Column="20" TopLine="202"/>
+      </Position7>
+      <Position8>
+        <Filename Value="..\..\..\Synopse.inc"/>
+        <Caret Line="220" Column="32" TopLine="202"/>
+      </Position8>
+    </JumpHistory>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="1">
+      <Item1>
+        <Expression Value="AssertionsFailed"/>
+      </Item1>
+    </Watches>
+  </Debugging>
+</CONFIG>
